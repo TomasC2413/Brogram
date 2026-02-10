@@ -36,6 +36,8 @@ export default function Hero() {
             <p><b><i>Push &rarr; Pull &rarr; Legs &rarr; Repeat</i></b></p>
             <p>Complete all of the workouts bellow and track your progress 
             along the way ✅</p>
+            <p>If you don't know how to do an exercise, hover on top of the name and a "help" 
+            icon should appear, click it and read carefully 💪</p>
         </>
 
     )
